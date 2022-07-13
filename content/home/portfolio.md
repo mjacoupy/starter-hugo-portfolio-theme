@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Autre onglet
+      tag: autre
 
 design:
   columns: '1'
